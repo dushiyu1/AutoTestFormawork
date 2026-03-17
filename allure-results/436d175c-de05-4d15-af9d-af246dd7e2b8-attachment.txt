@@ -1,0 +1,1392 @@
+校验失败，预期[{'TrainNumber': 'G805', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '16:30', 'ArriveTime': '23:11', 'TimeDifference': '06:41', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 553, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 930, 'Seatresidue': 99}, {'SeatName': '商务座', 'SeatPrice': 1748, 'Seatresidue': 14}, {'SeatName': '无座', 'SeatPrice': 553, 'Seatresidue': 99}]}, {'TrainNumber': 'G25', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:00', 'ArriveTime': '21:18', 'TimeDifference': '04:18', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 662, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1060, 'Seatresidue': 0}, {'SeatName': '优选一等座', 'SeatPrice': 1457, 'Seatresidue': 10}, {'SeatName': '商务座', 'SeatPrice': 2318, 'Seatresidue': 11}, {'SeatName': '无座', 'SeatPrice': 662, 'Seatresidue': 99}]}, {'TrainNumber': 'G27', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:04', 'ArriveTime': '21:36', 'TimeDifference': '04:32', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 662, 'Seatresidue': 0}, {'SeatName': '一等座', 'SeatPrice': 1060, 'Seatresidue': 0}, {'SeatName': '商务座', 'SeatPrice': 2318, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 662, 'Seatresidue': 0}]}, {'TrainNumber': 'G807', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:19', 'ArriveTime': '23:25', 'TimeDifference': '06:06', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 576, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 969, 'Seatresidue': 13}, {'SeatName': '商务座', 'SeatPrice': 1873, 'Seatresidue': 11}, {'SeatName': '无座', 'SeatPrice': 576, 'Seatresidue': 12}]}, {'TrainNumber': 'G809', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:31', 'ArriveTime': '23:46', 'TimeDifference': '06:15', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 553, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 930, 'Seatresidue': 99}, {'SeatName': '优选一等座', 'SeatPrice': 1278, 'Seatresidue': 20}, {'SeatName': '商务座', 'SeatPrice': 1748, 'Seatresidue': 19}, {'SeatName': '无座', 'SeatPrice': 553, 'Seatresidue': 99}]}, {'TrainNumber': 'G29', 'start': '北京南', 'end': '上海', 'DepartTime': '18:00', 'ArriveTime': '22:43', 'TimeDifference': '04:43', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 633, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1045, 'Seatresidue': 99}, {'SeatName': '商务座', 'SeatPrice': 2182, 'Seatresidue': 14}, {'SeatName': '无座', 'SeatPrice': 633, 'Seatresidue': 99}]}, {'TrainNumber': 'G31', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '18:04', 'ArriveTime': '22:58', 'TimeDifference': '04:54', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 626, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1035, 'Seatresidue': 99}, {'SeatName': '商务座', 'SeatPrice': 2158, 'Seatresidue': 12}, {'SeatName': '无座', 'SeatPrice': 626, 'Seatresidue': 99}]}, {'TrainNumber': 'G33', 'start': '北京南', 'end': '上海', 'DepartTime': '19:00', 'ArriveTime': '23:35', 'TimeDifference': '04:35', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 606, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1016, 'Seatresidue': 99}, {'SeatName': '优选一等座', 'SeatPrice': 1397, 'Seatresidue': 20}, {'SeatName': '商务座', 'SeatPrice': 2182, 'Seatresidue': 19}, {'SeatName': '无座', 'SeatPrice': 606, 'Seatresidue': 99}]}, {'TrainNumber': 'D17', 'start': '北京', 'end': '上海松江', 'DepartTime': '19:10', 'ArriveTime': '07:31', 'TimeDifference': '11:39', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 298, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 522, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 641, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 298, 'Seatresidue': 6}]}, {'TrainNumber': 'Z281', 'start': '北京丰台', 'end': '上海松江', 'DepartTime': '19:21', 'ArriveTime': '08:44', 'TimeDifference': '10:37', 'SeatList': [{'SeatName': '硬座', 'SeatPrice': 177.5, 'Seatresidue': 0}, {'SeatName': '硬卧', 'SeatPrice': 325.5, 'Seatresidue': 0}, {'SeatName': '软卧', 'SeatPrice': 497.5, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 177.5, 'Seatresidue': 5}]}, {'TrainNumber': 'G35', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '19:24', 'ArriveTime': '23:51', 'TimeDifference': '04:27', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 598, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1006, 'Seatresidue': 14}, {'SeatName': '商务座', 'SeatPrice': 2158, 'Seatresidue': 20}, {'SeatName': '无座', 'SeatPrice': 598, 'Seatresidue': 99}]}, {'TrainNumber': 'D7', 'start': '北京丰台', 'end': '上海', 'DepartTime': '19:32', 'ArriveTime': '07:25', 'TimeDifference': '12:07', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 291, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 508, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 624, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 291, 'Seatresidue': 99}]}, {'TrainNumber': 'D9', 'start': '北京南', 'end': '上海南', 'DepartTime': '19:36', 'ArriveTime': '08:00', 'TimeDifference': '11:36', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 317, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 555, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 633, 'Seatresidue': 99}]}, {'TrainNumber': 'T109', 'start': '北京', 'end': '上海', 'DepartTime': '20:04', 'ArriveTime': '11:02', 'TimeDifference': '09:02', 'SeatList': [{'SeatName': '硬座', 'SeatPrice': 177.5, 'Seatresidue': 0}, {'SeatName': '硬卧', 'SeatPrice': 325.5, 'Seatresidue': 0}, {'SeatName': '软卧', 'SeatPrice': 497.5, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 177.5, 'Seatresidue': 99}]}, {'TrainNumber': 'D5', 'start': '北京', 'end': '上海', 'DepartTime': '21:21', 'ArriveTime': '09:27', 'TimeDifference': '11:54', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 316, 'Seatresidue': 0}, {'SeatName': '二等卧', 'SeatPrice': 553, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 680, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 316, 'Seatresidue': 19}]}, {'TrainNumber': 'D11', 'start': '北京南', 'end': '上海松江', 'DepartTime': '21:22', 'ArriveTime': '09:45', 'TimeDifference': '11:37', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 296, 'Seatresidue': 0}, {'SeatName': '二等卧', 'SeatPrice': 519, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 637, 'Seatresidue': 99}]}],实际{'code': 200, 'count': 15, 'go': '北京', 'to': '上海', 'form': '', 'time': '2026-03-17 16:49:18', 'date': '2026-03-17', 'data': [{'TrainNumber': 'G25', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:00', 'ArriveTime': '21:18', 'TimeDifference': '04:18', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 662, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1060, 'Seatresidue': 1}, {'SeatName': '优选一等座', 'SeatPrice': 1457, 'Seatresidue': 8}, {'SeatName': '商务座', 'SeatPrice': 2318, 'Seatresidue': 11}, {'SeatName': '无座', 'SeatPrice': 662, 'Seatresidue': 99}]}, {'TrainNumber': 'G27', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:04', 'ArriveTime': '21:36', 'TimeDifference': '04:32', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 662, 'Seatresidue': 0}, {'SeatName': '一等座', 'SeatPrice': 1060, 'Seatresidue': 0}, {'SeatName': '商务座', 'SeatPrice': 2318, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 662, 'Seatresidue': 0}]}, {'TrainNumber': 'G807', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:19', 'ArriveTime': '23:25', 'TimeDifference': '06:06', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 576, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 969, 'Seatresidue': 8}, {'SeatName': '商务座', 'SeatPrice': 1873, 'Seatresidue': 10}, {'SeatName': '无座', 'SeatPrice': 576, 'Seatresidue': 12}]}, {'TrainNumber': 'G809', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:31', 'ArriveTime': '23:46', 'TimeDifference': '06:15', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 553, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 930, 'Seatresidue': 99}, {'SeatName': '优选一等座', 'SeatPrice': 1278, 'Seatresidue': 20}, {'SeatName': '商务座', 'SeatPrice': 1748, 'Seatresidue': 19}, {'SeatName': '无座', 'SeatPrice': 553, 'Seatresidue': 99}]}, {'TrainNumber': 'G29', 'start': '北京南', 'end': '上海', 'DepartTime': '18:00', 'ArriveTime': '22:43', 'TimeDifference': '04:43', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 633, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1045, 'Seatresidue': 99}, {'SeatName': '商务座', 'SeatPrice': 2182, 'Seatresidue': 12}, {'SeatName': '无座', 'SeatPrice': 633, 'Seatresidue': 99}]}, {'TrainNumber': 'G31', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '18:04', 'ArriveTime': '22:58', 'TimeDifference': '04:54', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 626, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1035, 'Seatresidue': 99}, {'SeatName': '商务座', 'SeatPrice': 2158, 'Seatresidue': 12}, {'SeatName': '无座', 'SeatPrice': 626, 'Seatresidue': 99}]}, {'TrainNumber': 'G33', 'start': '北京南', 'end': '上海', 'DepartTime': '19:00', 'ArriveTime': '23:35', 'TimeDifference': '04:35', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 606, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1016, 'Seatresidue': 99}, {'SeatName': '优选一等座', 'SeatPrice': 1397, 'Seatresidue': 18}, {'SeatName': '商务座', 'SeatPrice': 2182, 'Seatresidue': 19}, {'SeatName': '无座', 'SeatPrice': 606, 'Seatresidue': 99}]}, {'TrainNumber': 'D17', 'start': '北京', 'end': '上海松江', 'DepartTime': '19:10', 'ArriveTime': '07:31', 'TimeDifference': '11:39', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 298, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 522, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 641, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 298, 'Seatresidue': 6}]}, {'TrainNumber': 'Z281', 'start': '北京丰台', 'end': '上海松江', 'DepartTime': '19:21', 'ArriveTime': '08:44', 'TimeDifference': '10:37', 'SeatList': [{'SeatName': '硬座', 'SeatPrice': 177.5, 'Seatresidue': 0}, {'SeatName': '硬卧', 'SeatPrice': 325.5, 'Seatresidue': 0}, {'SeatName': '软卧', 'SeatPrice': 497.5, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 177.5, 'Seatresidue': 0}]}, {'TrainNumber': 'G35', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '19:24', 'ArriveTime': '23:51', 'TimeDifference': '04:27', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 598, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1006, 'Seatresidue': 13}, {'SeatName': '商务座', 'SeatPrice': 2158, 'Seatresidue': 20}, {'SeatName': '无座', 'SeatPrice': 598, 'Seatresidue': 99}]}, {'TrainNumber': 'D7', 'start': '北京丰台', 'end': '上海', 'DepartTime': '19:32', 'ArriveTime': '07:25', 'TimeDifference': '12:07', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 291, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 508, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 624, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 291, 'Seatresidue': 99}]}, {'TrainNumber': 'D9', 'start': '北京南', 'end': '上海南', 'DepartTime': '19:36', 'ArriveTime': '08:00', 'TimeDifference': '11:36', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 317, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 555, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 633, 'Seatresidue': 99}]}, {'TrainNumber': 'T109', 'start': '北京', 'end': '上海', 'DepartTime': '20:04', 'ArriveTime': '11:02', 'TimeDifference': '09:02', 'SeatList': [{'SeatName': '硬座', 'SeatPrice': 177.5, 'Seatresidue': 0}, {'SeatName': '硬卧', 'SeatPrice': 325.5, 'Seatresidue': 0}, {'SeatName': '软卧', 'SeatPrice': 497.5, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 177.5, 'Seatresidue': 99}]}, {'TrainNumber': 'D5', 'start': '北京', 'end': '上海', 'DepartTime': '21:21', 'ArriveTime': '09:27', 'TimeDifference': '11:54', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 316, 'Seatresidue': 0}, {'SeatName': '二等卧', 'SeatPrice': 553, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 680, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 316, 'Seatresidue': 13}]}, {'TrainNumber': 'D11', 'start': '北京南', 'end': '上海松江', 'DepartTime': '21:22', 'ArriveTime': '09:45', 'TimeDifference': '11:37', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 296, 'Seatresidue': 0}, {'SeatName': '二等卧', 'SeatPrice': 519, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 637, 'Seatresidue': 99}]}], 'timestamp': 1773737382, 'author': 'FAPI：https://api.lolimi.cn', 'exec_time': '576ms'}
+assert {'code': 200, 'count': 15, 'go': '北京', 'to': '上海', 'form': '', 'time': '2026-03-17 16:49:18', 'date': '2026-03-17', 'data': [{'TrainNumber': 'G25', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:00', 'ArriveTime': '21:18', 'TimeDifference': '04:18', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 662, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1060, 'Seatresidue': 1}, {'SeatName': '优选一等座', 'SeatPrice': 1457, 'Seatresidue': 8}, {'SeatName': '商务座', 'SeatPrice': 2318, 'Seatresidue': 11}, {'SeatName': '无座', 'SeatPrice': 662, 'Seatresidue': 99}]}, {'TrainNumber': 'G27', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:04', 'ArriveTime': '21:36', 'TimeDifference': '04:32', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 662, 'Seatresidue': 0}, {'SeatName': '一等座', 'SeatPrice': 1060, 'Seatresidue': 0}, {'SeatName': '商务座', 'SeatPrice': 2318, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 662, 'Seatresidue': 0}]}, {'TrainNumber': 'G807', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:19', 'ArriveTime': '23:25', 'TimeDifference': '06:06', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 576, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 969, 'Seatresidue': 8}, {'SeatName': '商务座', 'SeatPrice': 1873, 'Seatresidue': 10}, {'SeatName': '无座', 'SeatPrice': 576, 'Seatresidue': 12}]}, {'TrainNumber': 'G809', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:31', 'ArriveTime': '23:46', 'TimeDifference': '06:15', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 553, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 930, 'Seatresidue': 99}, {'SeatName': '优选一等座', 'SeatPrice': 1278, 'Seatresidue': 20}, {'SeatName': '商务座', 'SeatPrice': 1748, 'Seatresidue': 19}, {'SeatName': '无座', 'SeatPrice': 553, 'Seatresidue': 99}]}, {'TrainNumber': 'G29', 'start': '北京南', 'end': '上海', 'DepartTime': '18:00', 'ArriveTime': '22:43', 'TimeDifference': '04:43', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 633, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1045, 'Seatresidue': 99}, {'SeatName': '商务座', 'SeatPrice': 2182, 'Seatresidue': 12}, {'SeatName': '无座', 'SeatPrice': 633, 'Seatresidue': 99}]}, {'TrainNumber': 'G31', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '18:04', 'ArriveTime': '22:58', 'TimeDifference': '04:54', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 626, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1035, 'Seatresidue': 99}, {'SeatName': '商务座', 'SeatPrice': 2158, 'Seatresidue': 12}, {'SeatName': '无座', 'SeatPrice': 626, 'Seatresidue': 99}]}, {'TrainNumber': 'G33', 'start': '北京南', 'end': '上海', 'DepartTime': '19:00', 'ArriveTime': '23:35', 'TimeDifference': '04:35', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 606, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1016, 'Seatresidue': 99}, {'SeatName': '优选一等座', 'SeatPrice': 1397, 'Seatresidue': 18}, {'SeatName': '商务座', 'SeatPrice': 2182, 'Seatresidue': 19}, {'SeatName': '无座', 'SeatPrice': 606, 'Seatresidue': 99}]}, {'TrainNumber': 'D17', 'start': '北京', 'end': '上海松江', 'DepartTime': '19:10', 'ArriveTime': '07:31', 'TimeDifference': '11:39', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 298, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 522, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 641, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 298, 'Seatresidue': 6}]}, {'TrainNumber': 'Z281', 'start': '北京丰台', 'end': '上海松江', 'DepartTime': '19:21', 'ArriveTime': '08:44', 'TimeDifference': '10:37', 'SeatList': [{'SeatName': '硬座', 'SeatPrice': 177.5, 'Seatresidue': 0}, {'SeatName': '硬卧', 'SeatPrice': 325.5, 'Seatresidue': 0}, {'SeatName': '软卧', 'SeatPrice': 497.5, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 177.5, 'Seatresidue': 0}]}, {'TrainNumber': 'G35', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '19:24', 'ArriveTime': '23:51', 'TimeDifference': '04:27', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 598, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1006, 'Seatresidue': 13}, {'SeatName': '商务座', 'SeatPrice': 2158, 'Seatresidue': 20}, {'SeatName': '无座', 'SeatPrice': 598, 'Seatresidue': 99}]}, {'TrainNumber': 'D7', 'start': '北京丰台', 'end': '上海', 'DepartTime': '19:32', 'ArriveTime': '07:25', 'TimeDifference': '12:07', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 291, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 508, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 624, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 291, 'Seatresidue': 99}]}, {'TrainNumber': 'D9', 'start': '北京南', 'end': '上海南', 'DepartTime': '19:36', 'ArriveTime': '08:00', 'TimeDifference': '11:36', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 317, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 555, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 633, 'Seatresidue': 99}]}, {'TrainNumber': 'T109', 'start': '北京', 'end': '上海', 'DepartTime': '20:04', 'ArriveTime': '11:02', 'TimeDifference': '09:02', 'SeatList': [{'SeatName': '硬座', 'SeatPrice': 177.5, 'Seatresidue': 0}, {'SeatName': '硬卧', 'SeatPrice': 325.5, 'Seatresidue': 0}, {'SeatName': '软卧', 'SeatPrice': 497.5, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 177.5, 'Seatresidue': 99}]}, {'TrainNumber': 'D5', 'start': '北京', 'end': '上海', 'DepartTime': '21:21', 'ArriveTime': '09:27', 'TimeDifference': '11:54', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 316, 'Seatresidue': 0}, {'SeatName': '二等卧', 'SeatPrice': 553, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 680, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 316, 'Seatresidue': 13}]}, {'TrainNumber': 'D11', 'start': '北京南', 'end': '上海松江', 'DepartTime': '21:22', 'ArriveTime': '09:45', 'TimeDifference': '11:37', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 296, 'Seatresidue': 0}, {'SeatName': '二等卧', 'SeatPrice': 519, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 637, 'Seatresidue': 99}]}], 'timestamp': 1773737382, 'author': 'FAPI：https://api.lolimi.cn', 'exec_time': '576ms'} == [{'TrainNumber': 'G805', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '16:30', 'ArriveTime': '23:11', 'TimeDifference': '06:41', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 553, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 930, 'Seatresidue': 99}, {'SeatName': '商务座', 'SeatPrice': 1748, 'Seatresidue': 14}, {'SeatName': '无座', 'SeatPrice': 553, 'Seatresidue': 99}]}, {'TrainNumber': 'G25', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:00', 'ArriveTime': '21:18', 'TimeDifference': '04:18', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 662, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1060, 'Seatresidue': 0}, {'SeatName': '优选一等座', 'SeatPrice': 1457, 'Seatresidue': 10}, {'SeatName': '商务座', 'SeatPrice': 2318, 'Seatresidue': 11}, {'SeatName': '无座', 'SeatPrice': 662, 'Seatresidue': 99}]}, {'TrainNumber': 'G27', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:04', 'ArriveTime': '21:36', 'TimeDifference': '04:32', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 662, 'Seatresidue': 0}, {'SeatName': '一等座', 'SeatPrice': 1060, 'Seatresidue': 0}, {'SeatName': '商务座', 'SeatPrice': 2318, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 662, 'Seatresidue': 0}]}, {'TrainNumber': 'G807', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:19', 'ArriveTime': '23:25', 'TimeDifference': '06:06', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 576, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 969, 'Seatresidue': 13}, {'SeatName': '商务座', 'SeatPrice': 1873, 'Seatresidue': 11}, {'SeatName': '无座', 'SeatPrice': 576, 'Seatresidue': 12}]}, {'TrainNumber': 'G809', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '17:31', 'ArriveTime': '23:46', 'TimeDifference': '06:15', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 553, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 930, 'Seatresidue': 99}, {'SeatName': '优选一等座', 'SeatPrice': 1278, 'Seatresidue': 20}, {'SeatName': '商务座', 'SeatPrice': 1748, 'Seatresidue': 19}, {'SeatName': '无座', 'SeatPrice': 553, 'Seatresidue': 99}]}, {'TrainNumber': 'G29', 'start': '北京南', 'end': '上海', 'DepartTime': '18:00', 'ArriveTime': '22:43', 'TimeDifference': '04:43', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 633, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1045, 'Seatresidue': 99}, {'SeatName': '商务座', 'SeatPrice': 2182, 'Seatresidue': 14}, {'SeatName': '无座', 'SeatPrice': 633, 'Seatresidue': 99}]}, {'TrainNumber': 'G31', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '18:04', 'ArriveTime': '22:58', 'TimeDifference': '04:54', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 626, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1035, 'Seatresidue': 99}, {'SeatName': '商务座', 'SeatPrice': 2158, 'Seatresidue': 12}, {'SeatName': '无座', 'SeatPrice': 626, 'Seatresidue': 99}]}, {'TrainNumber': 'G33', 'start': '北京南', 'end': '上海', 'DepartTime': '19:00', 'ArriveTime': '23:35', 'TimeDifference': '04:35', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 606, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1016, 'Seatresidue': 99}, {'SeatName': '优选一等座', 'SeatPrice': 1397, 'Seatresidue': 20}, {'SeatName': '商务座', 'SeatPrice': 2182, 'Seatresidue': 19}, {'SeatName': '无座', 'SeatPrice': 606, 'Seatresidue': 99}]}, {'TrainNumber': 'D17', 'start': '北京', 'end': '上海松江', 'DepartTime': '19:10', 'ArriveTime': '07:31', 'TimeDifference': '11:39', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 298, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 522, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 641, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 298, 'Seatresidue': 6}]}, {'TrainNumber': 'Z281', 'start': '北京丰台', 'end': '上海松江', 'DepartTime': '19:21', 'ArriveTime': '08:44', 'TimeDifference': '10:37', 'SeatList': [{'SeatName': '硬座', 'SeatPrice': 177.5, 'Seatresidue': 0}, {'SeatName': '硬卧', 'SeatPrice': 325.5, 'Seatresidue': 0}, {'SeatName': '软卧', 'SeatPrice': 497.5, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 177.5, 'Seatresidue': 5}]}, {'TrainNumber': 'G35', 'start': '北京南', 'end': '上海虹桥', 'DepartTime': '19:24', 'ArriveTime': '23:51', 'TimeDifference': '04:27', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 598, 'Seatresidue': 99}, {'SeatName': '一等座', 'SeatPrice': 1006, 'Seatresidue': 14}, {'SeatName': '商务座', 'SeatPrice': 2158, 'Seatresidue': 20}, {'SeatName': '无座', 'SeatPrice': 598, 'Seatresidue': 99}]}, {'TrainNumber': 'D7', 'start': '北京丰台', 'end': '上海', 'DepartTime': '19:32', 'ArriveTime': '07:25', 'TimeDifference': '12:07', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 291, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 508, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 624, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 291, 'Seatresidue': 99}]}, {'TrainNumber': 'D9', 'start': '北京南', 'end': '上海南', 'DepartTime': '19:36', 'ArriveTime': '08:00', 'TimeDifference': '11:36', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 317, 'Seatresidue': 99}, {'SeatName': '二等卧', 'SeatPrice': 555, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 633, 'Seatresidue': 99}]}, {'TrainNumber': 'T109', 'start': '北京', 'end': '上海', 'DepartTime': '20:04', 'ArriveTime': '11:02', 'TimeDifference': '09:02', 'SeatList': [{'SeatName': '硬座', 'SeatPrice': 177.5, 'Seatresidue': 0}, {'SeatName': '硬卧', 'SeatPrice': 325.5, 'Seatresidue': 0}, {'SeatName': '软卧', 'SeatPrice': 497.5, 'Seatresidue': 0}, {'SeatName': '无座', 'SeatPrice': 177.5, 'Seatresidue': 99}]}, {'TrainNumber': 'D5', 'start': '北京', 'end': '上海', 'DepartTime': '21:21', 'ArriveTime': '09:27', 'TimeDifference': '11:54', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 316, 'Seatresidue': 0}, {'SeatName': '二等卧', 'SeatPrice': 553, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 680, 'Seatresidue': 99}, {'SeatName': '无座', 'SeatPrice': 316, 'Seatresidue': 19}]}, {'TrainNumber': 'D11', 'start': '北京南', 'end': '上海松江', 'DepartTime': '21:22', 'ArriveTime': '09:45', 'TimeDifference': '11:37', 'SeatList': [{'SeatName': '二等座', 'SeatPrice': 296, 'Seatresidue': 0}, {'SeatName': '二等卧', 'SeatPrice': 519, 'Seatresidue': 99}, {'SeatName': '一等卧', 'SeatPrice': 637, 'Seatresidue': 99}]}]
+  
+  Full diff:
+  - [
+  -     {
+  + {
+  +     'author': 'FAPI：https://api.lolimi.cn',
+  +     'code': 200,
+  +     'count': 15,
+  +     'data': [
+  +         {
+  -         'ArriveTime': '23:11',
+  ?                         ^  ^
+  +             'ArriveTime': '21:18',
+  ? ++++                        ^  ^
+  -         'DepartTime': '16:30',
+  ?                         ^ ^
+  +             'DepartTime': '17:00',
+  ? ++++                        ^ ^
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 553,
+  ?                              ^^^
+  +                     'SeatPrice': 662,
+  ? ++++                             ^^^
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等座',
+  +                     'SeatName': '一等座',
+  ? ++++
+  -                 'SeatPrice': 930,
+  -                 'Seatresidue': 99,
+  -             },
+  -             {
+  -                 'SeatName': '商务座',
+  -                 'SeatPrice': 1748,
+  -                 'Seatresidue': 14,
+  -             },
+  -             {
+  -                 'SeatName': '无座',
+  -                 'SeatPrice': 553,
+  -                 'Seatresidue': 99,
+  -             },
+  -         ],
+  -         'TimeDifference': '06:41',
+  -         'TrainNumber': 'G805',
+  -         'end': '上海虹桥',
+  -         'start': '北京南',
+  -     },
+  -     {
+  -         'ArriveTime': '21:18',
+  -         'DepartTime': '17:00',
+  -         'SeatList': [
+  -             {
+  -                 'SeatName': '二等座',
+  -                 'SeatPrice': 662,
+  -                 'Seatresidue': 99,
+  -             },
+  -             {
+  -                 'SeatName': '一等座',
+  -                 'SeatPrice': 1060,
+  +                     'SeatPrice': 1060,
+  ? ++++
+  -                 'Seatresidue': 0,
+  ?                                ^
+  +                     'Seatresidue': 1,
+  ? ++++                               ^
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '优选一等座',
+  +                     'SeatName': '优选一等座',
+  ? ++++
+  -                 'SeatPrice': 1457,
+  +                     'SeatPrice': 1457,
+  ? ++++
+  -                 'Seatresidue': 10,
+  ?                                ^^
+  +                     'Seatresidue': 8,
+  ? ++++                               ^
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '商务座',
+  +                     'SeatName': '商务座',
+  ? ++++
+  -                 'SeatPrice': 2318,
+  +                     'SeatPrice': 2318,
+  ? ++++
+  -                 'Seatresidue': 11,
+  +                     'Seatresidue': 11,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 662,
+  +                     'SeatPrice': 662,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '04:18',
+  +             'TimeDifference': '04:18',
+  ? ++++
+  -         'TrainNumber': 'G25',
+  +             'TrainNumber': 'G25',
+  ? ++++
+  -         'end': '上海虹桥',
+  +             'end': '上海虹桥',
+  ? ++++
+  -         'start': '北京南',
+  +             'start': '北京南',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '21:36',
+  +             'ArriveTime': '21:36',
+  ? ++++
+  -         'DepartTime': '17:04',
+  +             'DepartTime': '17:04',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 662,
+  +                     'SeatPrice': 662,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等座',
+  +                     'SeatName': '一等座',
+  ? ++++
+  -                 'SeatPrice': 1060,
+  +                     'SeatPrice': 1060,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '商务座',
+  +                     'SeatName': '商务座',
+  ? ++++
+  -                 'SeatPrice': 2318,
+  +                     'SeatPrice': 2318,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 662,
+  +                     'SeatPrice': 662,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '04:32',
+  +             'TimeDifference': '04:32',
+  ? ++++
+  -         'TrainNumber': 'G27',
+  +             'TrainNumber': 'G27',
+  ? ++++
+  -         'end': '上海虹桥',
+  +             'end': '上海虹桥',
+  ? ++++
+  -         'start': '北京南',
+  +             'start': '北京南',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '23:25',
+  +             'ArriveTime': '23:25',
+  ? ++++
+  -         'DepartTime': '17:19',
+  +             'DepartTime': '17:19',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 576,
+  +                     'SeatPrice': 576,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等座',
+  +                     'SeatName': '一等座',
+  ? ++++
+  -                 'SeatPrice': 969,
+  +                     'SeatPrice': 969,
+  ? ++++
+  -                 'Seatresidue': 13,
+  ?                                ^^
+  +                     'Seatresidue': 8,
+  ? ++++                               ^
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '商务座',
+  +                     'SeatName': '商务座',
+  ? ++++
+  -                 'SeatPrice': 1873,
+  +                     'SeatPrice': 1873,
+  ? ++++
+  -                 'Seatresidue': 11,
+  ?                                 ^
+  +                     'Seatresidue': 10,
+  ? ++++                                ^
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 576,
+  +                     'SeatPrice': 576,
+  ? ++++
+  -                 'Seatresidue': 12,
+  +                     'Seatresidue': 12,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '06:06',
+  +             'TimeDifference': '06:06',
+  ? ++++
+  -         'TrainNumber': 'G807',
+  +             'TrainNumber': 'G807',
+  ? ++++
+  -         'end': '上海虹桥',
+  +             'end': '上海虹桥',
+  ? ++++
+  -         'start': '北京南',
+  +             'start': '北京南',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '23:46',
+  +             'ArriveTime': '23:46',
+  ? ++++
+  -         'DepartTime': '17:31',
+  +             'DepartTime': '17:31',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 553,
+  +                     'SeatPrice': 553,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等座',
+  +                     'SeatName': '一等座',
+  ? ++++
+  -                 'SeatPrice': 930,
+  +                     'SeatPrice': 930,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '优选一等座',
+  +                     'SeatName': '优选一等座',
+  ? ++++
+  -                 'SeatPrice': 1278,
+  +                     'SeatPrice': 1278,
+  ? ++++
+  -                 'Seatresidue': 20,
+  +                     'Seatresidue': 20,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '商务座',
+  +                     'SeatName': '商务座',
+  ? ++++
+  -                 'SeatPrice': 1748,
+  +                     'SeatPrice': 1748,
+  ? ++++
+  -                 'Seatresidue': 19,
+  +                     'Seatresidue': 19,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 553,
+  +                     'SeatPrice': 553,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '06:15',
+  +             'TimeDifference': '06:15',
+  ? ++++
+  -         'TrainNumber': 'G809',
+  +             'TrainNumber': 'G809',
+  ? ++++
+  -         'end': '上海虹桥',
+  +             'end': '上海虹桥',
+  ? ++++
+  -         'start': '北京南',
+  +             'start': '北京南',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '22:43',
+  +             'ArriveTime': '22:43',
+  ? ++++
+  -         'DepartTime': '18:00',
+  +             'DepartTime': '18:00',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 633,
+  +                     'SeatPrice': 633,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等座',
+  +                     'SeatName': '一等座',
+  ? ++++
+  -                 'SeatPrice': 1045,
+  +                     'SeatPrice': 1045,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '商务座',
+  +                     'SeatName': '商务座',
+  ? ++++
+  -                 'SeatPrice': 2182,
+  +                     'SeatPrice': 2182,
+  ? ++++
+  -                 'Seatresidue': 14,
+  -             },
+  -             {
+  -                 'SeatName': '无座',
+  -                 'SeatPrice': 633,
+  -                 'Seatresidue': 99,
+  -             },
+  -         ],
+  -         'TimeDifference': '04:43',
+  -         'TrainNumber': 'G29',
+  -         'end': '上海',
+  -         'start': '北京南',
+  -     },
+  -     {
+  -         'ArriveTime': '22:58',
+  -         'DepartTime': '18:04',
+  -         'SeatList': [
+  -             {
+  -                 'SeatName': '二等座',
+  -                 'SeatPrice': 626,
+  -                 'Seatresidue': 99,
+  -             },
+  -             {
+  -                 'SeatName': '一等座',
+  -                 'SeatPrice': 1035,
+  -                 'Seatresidue': 99,
+  -             },
+  -             {
+  -                 'SeatName': '商务座',
+  -                 'SeatPrice': 2158,
+  -                 'Seatresidue': 12,
+  +                     'Seatresidue': 12,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 626,
+  ?                               ^^
+  +                     'SeatPrice': 633,
+  ? ++++                              ^^
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '04:54',
+  ?                               -
+  +             'TimeDifference': '04:43',
+  ? ++++                               +
+  -         'TrainNumber': 'G31',
+  ?                          ^^
+  +             'TrainNumber': 'G29',
+  ? ++++                         ^^
+  -         'end': '上海虹桥',
+  ?                   --
+  +             'end': '上海',
+  ? ++++
+  -         'start': '北京南',
+  +             'start': '北京南',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '23:35',
+  ?                         ^ -
+  +             'ArriveTime': '22:58',
+  ? ++++                        ^  +
+  -         'DepartTime': '19:00',
+  ?                         ^  ^
+  +             'DepartTime': '18:04',
+  ? ++++                        ^  ^
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 606,
+  ?                               ^
+  +                     'SeatPrice': 626,
+  ? ++++                              ^
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等座',
+  +                     'SeatName': '一等座',
+  ? ++++
+  -                 'SeatPrice': 1016,
+  ?                                ^^
+  +                     'SeatPrice': 1035,
+  ? ++++                               ^^
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  +                 },
+  +                 {
+  +                     'SeatName': '商务座',
+  +                     'SeatPrice': 2158,
+  +                     'Seatresidue': 12,
+  +                 },
+  +                 {
+  +                     'SeatName': '无座',
+  +                     'SeatPrice': 626,
+  +                     'Seatresidue': 99,
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  +             'TimeDifference': '04:54',
+  +             'TrainNumber': 'G31',
+  +             'end': '上海虹桥',
+  +             'start': '北京南',
+  +         },
+  +         {
+  +             'ArriveTime': '23:35',
+  +             'DepartTime': '19:00',
+  +             'SeatList': [
+  -             {
+  +                 {
+  ? ++++
+  +                     'SeatName': '二等座',
+  +                     'SeatPrice': 606,
+  +                     'Seatresidue': 99,
+  +                 },
+  +                 {
+  +                     'SeatName': '一等座',
+  +                     'SeatPrice': 1016,
+  +                     'Seatresidue': 99,
+  +                 },
+  +                 {
+  -                 'SeatName': '优选一等座',
+  +                     'SeatName': '优选一等座',
+  ? ++++
+  -                 'SeatPrice': 1397,
+  +                     'SeatPrice': 1397,
+  ? ++++
+  -                 'Seatresidue': 20,
+  ?                                ^^
+  +                     'Seatresidue': 18,
+  ? ++++                               ^^
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '商务座',
+  +                     'SeatName': '商务座',
+  ? ++++
+  -                 'SeatPrice': 2182,
+  +                     'SeatPrice': 2182,
+  ? ++++
+  -                 'Seatresidue': 19,
+  +                     'Seatresidue': 19,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 606,
+  +                     'SeatPrice': 606,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '04:35',
+  +             'TimeDifference': '04:35',
+  ? ++++
+  -         'TrainNumber': 'G33',
+  +             'TrainNumber': 'G33',
+  ? ++++
+  -         'end': '上海',
+  +             'end': '上海',
+  ? ++++
+  -         'start': '北京南',
+  +             'start': '北京南',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '07:31',
+  +             'ArriveTime': '07:31',
+  ? ++++
+  -         'DepartTime': '19:10',
+  +             'DepartTime': '19:10',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 298,
+  +                     'SeatPrice': 298,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等卧',
+  +                     'SeatName': '二等卧',
+  ? ++++
+  -                 'SeatPrice': 522,
+  +                     'SeatPrice': 522,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等卧',
+  +                     'SeatName': '一等卧',
+  ? ++++
+  -                 'SeatPrice': 641,
+  +                     'SeatPrice': 641,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 298,
+  +                     'SeatPrice': 298,
+  ? ++++
+  -                 'Seatresidue': 6,
+  +                     'Seatresidue': 6,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '11:39',
+  +             'TimeDifference': '11:39',
+  ? ++++
+  -         'TrainNumber': 'D17',
+  +             'TrainNumber': 'D17',
+  ? ++++
+  -         'end': '上海松江',
+  +             'end': '上海松江',
+  ? ++++
+  -         'start': '北京',
+  +             'start': '北京',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '08:44',
+  +             'ArriveTime': '08:44',
+  ? ++++
+  -         'DepartTime': '19:21',
+  +             'DepartTime': '19:21',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '硬座',
+  +                     'SeatName': '硬座',
+  ? ++++
+  -                 'SeatPrice': 177.5,
+  +                     'SeatPrice': 177.5,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '硬卧',
+  +                     'SeatName': '硬卧',
+  ? ++++
+  -                 'SeatPrice': 325.5,
+  +                     'SeatPrice': 325.5,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '软卧',
+  +                     'SeatName': '软卧',
+  ? ++++
+  -                 'SeatPrice': 497.5,
+  +                     'SeatPrice': 497.5,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 177.5,
+  +                     'SeatPrice': 177.5,
+  ? ++++
+  -                 'Seatresidue': 5,
+  ?                                ^
+  +                     'Seatresidue': 0,
+  ? ++++                               ^
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '10:37',
+  +             'TimeDifference': '10:37',
+  ? ++++
+  -         'TrainNumber': 'Z281',
+  +             'TrainNumber': 'Z281',
+  ? ++++
+  -         'end': '上海松江',
+  +             'end': '上海松江',
+  ? ++++
+  -         'start': '北京丰台',
+  +             'start': '北京丰台',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '23:51',
+  +             'ArriveTime': '23:51',
+  ? ++++
+  -         'DepartTime': '19:24',
+  +             'DepartTime': '19:24',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 598,
+  +                     'SeatPrice': 598,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等座',
+  +                     'SeatName': '一等座',
+  ? ++++
+  -                 'SeatPrice': 1006,
+  +                     'SeatPrice': 1006,
+  ? ++++
+  -                 'Seatresidue': 14,
+  ?                                 ^
+  +                     'Seatresidue': 13,
+  ? ++++                                ^
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '商务座',
+  +                     'SeatName': '商务座',
+  ? ++++
+  -                 'SeatPrice': 2158,
+  +                     'SeatPrice': 2158,
+  ? ++++
+  -                 'Seatresidue': 20,
+  +                     'Seatresidue': 20,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 598,
+  +                     'SeatPrice': 598,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '04:27',
+  +             'TimeDifference': '04:27',
+  ? ++++
+  -         'TrainNumber': 'G35',
+  +             'TrainNumber': 'G35',
+  ? ++++
+  -         'end': '上海虹桥',
+  +             'end': '上海虹桥',
+  ? ++++
+  -         'start': '北京南',
+  +             'start': '北京南',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '07:25',
+  +             'ArriveTime': '07:25',
+  ? ++++
+  -         'DepartTime': '19:32',
+  +             'DepartTime': '19:32',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 291,
+  +                     'SeatPrice': 291,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等卧',
+  +                     'SeatName': '二等卧',
+  ? ++++
+  -                 'SeatPrice': 508,
+  +                     'SeatPrice': 508,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等卧',
+  +                     'SeatName': '一等卧',
+  ? ++++
+  -                 'SeatPrice': 624,
+  +                     'SeatPrice': 624,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 291,
+  +                     'SeatPrice': 291,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '12:07',
+  +             'TimeDifference': '12:07',
+  ? ++++
+  -         'TrainNumber': 'D7',
+  +             'TrainNumber': 'D7',
+  ? ++++
+  -         'end': '上海',
+  +             'end': '上海',
+  ? ++++
+  -         'start': '北京丰台',
+  +             'start': '北京丰台',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '08:00',
+  +             'ArriveTime': '08:00',
+  ? ++++
+  -         'DepartTime': '19:36',
+  +             'DepartTime': '19:36',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 317,
+  +                     'SeatPrice': 317,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等卧',
+  +                     'SeatName': '二等卧',
+  ? ++++
+  -                 'SeatPrice': 555,
+  +                     'SeatPrice': 555,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等卧',
+  +                     'SeatName': '一等卧',
+  ? ++++
+  -                 'SeatPrice': 633,
+  +                     'SeatPrice': 633,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '11:36',
+  +             'TimeDifference': '11:36',
+  ? ++++
+  -         'TrainNumber': 'D9',
+  +             'TrainNumber': 'D9',
+  ? ++++
+  -         'end': '上海南',
+  +             'end': '上海南',
+  ? ++++
+  -         'start': '北京南',
+  +             'start': '北京南',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '11:02',
+  +             'ArriveTime': '11:02',
+  ? ++++
+  -         'DepartTime': '20:04',
+  +             'DepartTime': '20:04',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '硬座',
+  +                     'SeatName': '硬座',
+  ? ++++
+  -                 'SeatPrice': 177.5,
+  +                     'SeatPrice': 177.5,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '硬卧',
+  +                     'SeatName': '硬卧',
+  ? ++++
+  -                 'SeatPrice': 325.5,
+  +                     'SeatPrice': 325.5,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '软卧',
+  +                     'SeatName': '软卧',
+  ? ++++
+  -                 'SeatPrice': 497.5,
+  +                     'SeatPrice': 497.5,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 177.5,
+  +                     'SeatPrice': 177.5,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '09:02',
+  +             'TimeDifference': '09:02',
+  ? ++++
+  -         'TrainNumber': 'T109',
+  +             'TrainNumber': 'T109',
+  ? ++++
+  -         'end': '上海',
+  +             'end': '上海',
+  ? ++++
+  -         'start': '北京',
+  +             'start': '北京',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '09:27',
+  +             'ArriveTime': '09:27',
+  ? ++++
+  -         'DepartTime': '21:21',
+  +             'DepartTime': '21:21',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 316,
+  +                     'SeatPrice': 316,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等卧',
+  +                     'SeatName': '二等卧',
+  ? ++++
+  -                 'SeatPrice': 553,
+  +                     'SeatPrice': 553,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等卧',
+  +                     'SeatName': '一等卧',
+  ? ++++
+  -                 'SeatPrice': 680,
+  +                     'SeatPrice': 680,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '无座',
+  +                     'SeatName': '无座',
+  ? ++++
+  -                 'SeatPrice': 316,
+  +                     'SeatPrice': 316,
+  ? ++++
+  -                 'Seatresidue': 19,
+  ?                                 ^
+  +                     'Seatresidue': 13,
+  ? ++++                                ^
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '11:54',
+  +             'TimeDifference': '11:54',
+  ? ++++
+  -         'TrainNumber': 'D5',
+  +             'TrainNumber': 'D5',
+  ? ++++
+  -         'end': '上海',
+  +             'end': '上海',
+  ? ++++
+  -         'start': '北京',
+  +             'start': '北京',
+  ? ++++
+  -     },
+  +         },
+  ? ++++
+  -     {
+  +         {
+  -         'ArriveTime': '09:45',
+  +             'ArriveTime': '09:45',
+  ? ++++
+  -         'DepartTime': '21:22',
+  +             'DepartTime': '21:22',
+  ? ++++
+  -         'SeatList': [
+  +             'SeatList': [
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等座',
+  +                     'SeatName': '二等座',
+  ? ++++
+  -                 'SeatPrice': 296,
+  +                     'SeatPrice': 296,
+  ? ++++
+  -                 'Seatresidue': 0,
+  +                     'Seatresidue': 0,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '二等卧',
+  +                     'SeatName': '二等卧',
+  ? ++++
+  -                 'SeatPrice': 519,
+  +                     'SeatPrice': 519,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  -             },
+  +                 },
+  ? ++++
+  -             {
+  +                 {
+  ? ++++
+  -                 'SeatName': '一等卧',
+  +                     'SeatName': '一等卧',
+  ? ++++
+  -                 'SeatPrice': 637,
+  +                     'SeatPrice': 637,
+  ? ++++
+  -                 'Seatresidue': 99,
+  +                     'Seatresidue': 99,
+  ? ++++
+  +                 },
+  -             },
+  ?             ^
+  +             ],
+  ?             ^
+  -         ],
+  -         'TimeDifference': '11:37',
+  +             'TimeDifference': '11:37',
+  ? ++++
+  -         'TrainNumber': 'D11',
+  +             'TrainNumber': 'D11',
+  ? ++++
+  -         'end': '上海松江',
+  +             'end': '上海松江',
+  ? ++++
+  -         'start': '北京南',
+  +             'start': '北京南',
+  ? ++++
+  +         },
+  -     },
+  ?     ^
+  +     ],
+  ?     ^
+  - ]
+  +     'date': '2026-03-17',
+  +     'exec_time': '576ms',
+  +     'form': '',
+  +     'go': '北京',
+  +     'time': '2026-03-17 16:49:18',
+  +     'timestamp': 1773737382,
+  +     'to': '上海',
+  + }

@@ -41,12 +41,10 @@ class Test_API:
         )
         try:
             res = API.do_api_test(test_case)
-
-            print(res.json())
             with allure.step("校验状态码"):
                 assert res.status_code == 200,f"状态码错误，预期200，实际{res.status_code}"
             with allure.step("校验业务返回结果"):
-                actual_data = json.loads(res.text)['data']
+                actual_data = json.loads(res.text)
                 expected_data = test_case['excepted']
                 assert actual_data == expected_data,f"校验失败，预期{expected_data},实际{actual_data}"
             allure.attach(

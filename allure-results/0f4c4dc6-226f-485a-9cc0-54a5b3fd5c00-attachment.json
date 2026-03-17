@@ -1,0 +1,16 @@
+{
+  "url": "https://api.52vmy.cn/api/query/daxue",
+  "method": "get",
+  "jsonOrparams": "params",
+  "data": {
+    "daxue": "武汉大学1"
+  },
+  "header": {
+    "Content-Type": "application/json"
+  },
+  "excepted": {
+    "code": 201,
+    "msg": "失败",
+    "data": "学校不存在"
+  }
+}
