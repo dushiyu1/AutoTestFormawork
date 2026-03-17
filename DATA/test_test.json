@@ -1,0 +1,13 @@
+{
+  "url": "http://127.0.0.1:5000/test/login",
+  "method": "get",
+  "jsonOrparams": "params",
+  "data": {
+        "username":"admin",
+        "password":"admin"
+  },
+  "header": {"Content-Type": "application/json"},
+  "excepted": {
+        "msg": "登陆成功"
+    }
+}

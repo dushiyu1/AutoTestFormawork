@@ -1,0 +1,14 @@
+{
+  "url": "http://127.0.0.1:5000/api/zmdms-esb-sap/sap/open/call",
+  "method": "post",
+  "jsonOrparams": "json",
+  "data": {
+    "year": "2025",
+    "month": "",
+    "prctr": "SSX"
+  },
+  "header": {
+    "Content-Type": "application/json"
+  },
+  "excepted": "年份/月份/利润中心不可为空"
+}
