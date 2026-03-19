@@ -8,5 +8,9 @@
         "prctr":"SSX"
   },
   "header": {"Content-Type": "application/json"},
-  "excepted": "年份/月份/利润中心不可为空"
+  "excepted": {
+    "code": "400",
+    "data": "年份/月份/利润中心不可为空",
+    "msg": "操作失败"
+}
 }
