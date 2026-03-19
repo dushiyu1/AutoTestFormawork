@@ -1,5 +1,5 @@
 {
-  "url": "http://127.0.0.1:5000/test/login",
+  "url": "http://123.56.53.5:5000/test/login",
   "method": "get",
   "jsonOrparams": "params",
   "data": {
