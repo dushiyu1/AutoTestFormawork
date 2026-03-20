@@ -7,6 +7,6 @@ if  __name__ == "__main__":
                  "--clean-alluredir" #每次运行清空测试报告
                  ])
 
-    #自动打开报告--jenkins使用时需要注释
+    # 自动打开报告--jenkins使用时需要注释
     # import subprocess
     # subprocess.call(["allure","serve","./allure-results"])

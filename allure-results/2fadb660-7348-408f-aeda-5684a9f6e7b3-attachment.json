@@ -1,0 +1,24 @@
+{
+  "url": "https://boss.zhiyoubao.com/users/logining.htm",
+  "method": "get",
+  "jsonOrparams": "params",
+  "data": {
+    "newPlatform": "2",
+    "userName": "123456",
+    "redirectURL": "",
+    "platUserId": "",
+    "platMobile": "",
+    "platServerId": "",
+    "password": "rememberInfo",
+    "corpCode": "rememberInfo",
+    "checkCode": "rememberInfo",
+    "rememberInfo": "false"
+  },
+  "header": {
+    "Content-Type": "application/json"
+  },
+  "excepted": {
+    "success": false,
+    "message": "用户名或企业码错误"
+  }
+}
